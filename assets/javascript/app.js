@@ -16,11 +16,18 @@ var countStartNumber = 30;
 // Question set: Definition question sets
 var questions = [{
     question: "Profiling as defined by GDPR means:",
-    answers: [ "A: the automated analysis or predicting of behavior, location, movements, reliability, interests, personal preferences, health, economic situation, performance, etc."]
+    answers: [ "The correct definition is: Profiling is the automated analysis or predicting of behavior, location, movements, reliability, interests, personal preferences, health, economic situation, performance, etc."]
 }];
 
 // Question set: T/F Question sets
 
+var questions2 = [{
+    question: "True or False, Anonymous information is protected under GDPR just as striclty and Personal Information.",
+    answers: "F. Anonymous information is not protected by the GDPR"
+
+    question: "True or False. COPPA only applies to operators of commercial websites and online services that are directed to children under the age of 13.", 
+    answer: "F. COPPA also applies to general audience websites that have actual knowledge that they are collecting personal information from children under the age of 13"
+}]
 
 // Question set: A,B,C,D Questions
 
