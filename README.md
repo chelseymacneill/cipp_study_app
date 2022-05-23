@@ -1,3 +1,11 @@
+
+## Welcome to the CIPP Study App
+The purpose of this app was to create a fun and entertaining way to studdy the cipp material and for me to relearn some old coding skills. 
+
+If I work on this enough and get it to a place where its helpful I will publish it under a custom domain
+https://hackernoon.com/use-custom-domain-with-github-pages-2-straightforward-steps-cf561eee244f
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chelseymacneill/cipp_study_app/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
